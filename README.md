@@ -1,2 +1,3 @@
 # angular-builder
-Builds Angular Apps
+
+Docker Image that Builds Angular Apps
